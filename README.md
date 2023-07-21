@@ -1,4 +1,10 @@
-# rensponsive_portfolio-website
+"Responsive Portfolio Website Template done by JK Intellect"
 
-This is a Responsive Portfolio Website made by JK Intellect.
+This is an example Website.
+
+We have created a template for you to browse through. When you are ready for your very own portfolio website, our Dev's tweak and adjust it to your own uniqueness.
+
+visit www.jkintellect.com for more information.
+
+#Note: This is a read-only repository.#
 
